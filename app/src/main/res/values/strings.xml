@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Capes</string>
+    <string name="prov_name">Daftar Provinsi</string>
+    <string name="kab_name">Daftar Kota/Kabupaten</string>
+    <string name="pes_name">Daftar Pesantren</string>
+    <string name="detail_name">Cari Pesantren</string>
+</resources>
